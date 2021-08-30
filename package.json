@@ -1,0 +1,44 @@
+{
+  "name": "dbhackathonstarterkit",
+  "version": "1.0.0",
+  "description": "Database-Ready Hackathon Starter Kit for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/instafluff/DBHackathonStarterKit.git"
+  },
+  "keywords": [
+    "Hackathon",
+    "Starter",
+    "Kit",
+    "Boilerplate",
+    "Node",
+    "JS",
+    "Data",
+    "Database",
+    "DB"
+  ],
+  "author": "Instafluff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/instafluff/DBHackathonStarterKit/issues"
+  },
+  "homepage": "https://github.com/instafluff/DBHackathonStarterKit#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "csv-parse": "^4.16.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "lodash": "^4.17.21",
+    "node-fetch": "^2.6.1",
+    "pg": "^8.6.0",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.6.2"
+  }
+}
