@@ -1,0 +1,6 @@
+{
+    "name": "DBHackathon StarterKit",
+    "description": "Database-Ready Hackathon Starter Kit for Projects",
+    "repository": "https://github.com/instafluff/DBHackathonStarterKit",
+    "keywords": ["node", "express", "static", "react", "CockroachDB", "database"]
+  }
