@@ -1,6 +1,8 @@
 # DBHackathonStarterKit
 Database-Ready Hackathon Starter Kit for Projects
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 This is a boilerplate starter kit designed to let you easily create and iterate on projects with JavaScript and Node.js. It is set up to connect to [CockroachDB](https://www.cockroachlabs.com/) so that the data can be easily viewed, cleaned, queried using existing SQL tools.
 
 ## Technologies Used
